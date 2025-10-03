@@ -1,0 +1,29 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+header{
+width: 100%;
+height: 100px;
+background-color: blue;
+float: left;
+}
+main{
+display: inline;
+}
+#lewy{
+width: 25%;
+background-color: red;
+float: left;
+}
+#prawy{
+width: 73%;
+background-color: green;
+float: right;
+}
+footer{
+width: 100%;
+background-color: purple;
+float: left;
+}

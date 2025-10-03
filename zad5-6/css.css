@@ -1,0 +1,22 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+main{
+width: 65%;
+float: left;
+background-color: red;
+}
+aside{
+float: right;
+background-color: blue;
+width: 32%;
+}
+main, aside{
+height: 300px;
+}
+footer{
+clear: both;
+background-color: gray;
+}
